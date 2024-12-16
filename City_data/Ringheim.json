@@ -102025,8 +102025,8 @@
         "type": "way",
         "id": 22568420,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -102060,8 +102060,8 @@
         "type": "way",
         "id": 22568421,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -102077,8 +102077,8 @@
         "type": "way",
         "id": 22568422,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -102100,8 +102100,8 @@
         "type": "way",
         "id": 23007686,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -102117,8 +102117,8 @@
         "type": "way",
         "id": 23007687,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102132,8 +102132,8 @@
         "type": "way",
         "id": 23007688,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102158,8 +102158,8 @@
         "type": "way",
         "id": 23007689,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102172,8 +102172,8 @@
         "type": "way",
         "id": 23008238,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102193,8 +102193,8 @@
         "type": "way",
         "id": 23008345,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102219,8 +102219,8 @@
         "type": "way",
         "id": 23008379,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102237,8 +102237,8 @@
         "type": "way",
         "id": 23008381,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102261,8 +102261,8 @@
         "type": "way",
         "id": 23008395,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102278,8 +102278,8 @@
         "type": "way",
         "id": 24015554,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -102292,8 +102292,8 @@
         "type": "way",
         "id": 24015555,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -102307,8 +102307,8 @@
         "type": "way",
         "id": 24790826,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "cycleway"
         },
@@ -102323,8 +102323,8 @@
         "type": "way",
         "id": 24790827,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -102347,8 +102347,8 @@
         "type": "way",
         "id": 24790828,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102362,8 +102362,8 @@
         "type": "way",
         "id": 24790829,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -102383,8 +102383,8 @@
         "type": "way",
         "id": 24790830,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -102397,8 +102397,8 @@
         "type": "way",
         "id": 24790833,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -102416,8 +102416,8 @@
         "type": "way",
         "id": 25256197,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102432,8 +102432,8 @@
         "type": "way",
         "id": 25256226,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102450,8 +102450,8 @@
         "type": "way",
         "id": 25413144,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102469,8 +102469,8 @@
         "type": "way",
         "id": 25413145,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102484,8 +102484,8 @@
         "type": "way",
         "id": 25533744,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102498,8 +102498,8 @@
         "type": "way",
         "id": 25533762,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102523,8 +102523,8 @@
         "type": "way",
         "id": 25533789,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102538,8 +102538,8 @@
         "type": "way",
         "id": 25576970,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -102552,8 +102552,8 @@
         "type": "way",
         "id": 25644301,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -102571,8 +102571,8 @@
         "type": "way",
         "id": 25644302,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -102585,8 +102585,8 @@
         "type": "way",
         "id": 25736223,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102609,8 +102609,8 @@
         "type": "way",
         "id": 25806624,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -102632,8 +102632,8 @@
         "type": "way",
         "id": 25806626,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -102650,8 +102650,8 @@
         "type": "way",
         "id": 26548466,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102667,8 +102667,8 @@
         "type": "way",
         "id": 26548468,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102681,8 +102681,8 @@
         "type": "way",
         "id": 26548469,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102696,8 +102696,8 @@
         "type": "way",
         "id": 26548471,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102712,8 +102712,8 @@
         "type": "way",
         "id": 26548563,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -102729,8 +102729,8 @@
         "type": "way",
         "id": 26548592,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102750,8 +102750,8 @@
         "type": "way",
         "id": 26548620,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -102783,8 +102783,8 @@
         "type": "way",
         "id": 26674970,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102800,8 +102800,8 @@
         "type": "way",
         "id": 26674971,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102816,8 +102816,8 @@
         "type": "way",
         "id": 26674972,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102833,8 +102833,8 @@
         "type": "way",
         "id": 26674973,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102853,8 +102853,8 @@
         "type": "way",
         "id": 26674974,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102882,8 +102882,8 @@
         "type": "way",
         "id": 26674975,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -102897,8 +102897,8 @@
         "type": "way",
         "id": 26674976,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102914,8 +102914,8 @@
         "type": "way",
         "id": 26674977,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -102928,8 +102928,8 @@
         "type": "way",
         "id": 26674978,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102943,8 +102943,8 @@
         "type": "way",
         "id": 26674979,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102957,8 +102957,8 @@
         "type": "way",
         "id": 26674980,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102973,8 +102973,8 @@
         "type": "way",
         "id": 26674981,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -102988,8 +102988,8 @@
         "type": "way",
         "id": 26674982,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103003,8 +103003,8 @@
         "type": "way",
         "id": 26674986,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103017,8 +103017,8 @@
         "type": "way",
         "id": 28475327,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -103034,8 +103034,8 @@
         "type": "way",
         "id": 28475328,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -103055,8 +103055,8 @@
         "type": "way",
         "id": 28475329,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103072,8 +103072,8 @@
         "type": "way",
         "id": 30878435,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -103091,8 +103091,8 @@
         "type": "way",
         "id": 30878436,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "rest_area"
         },
@@ -103113,8 +103113,8 @@
         "type": "way",
         "id": 30979744,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103132,8 +103132,8 @@
         "type": "way",
         "id": 30979745,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103153,8 +103153,8 @@
         "type": "way",
         "id": 30979746,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103174,8 +103174,8 @@
         "type": "way",
         "id": 34208141,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -103188,8 +103188,8 @@
         "type": "way",
         "id": 34208142,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103204,8 +103204,8 @@
         "type": "way",
         "id": 35693143,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -103218,8 +103218,8 @@
         "type": "way",
         "id": 37108503,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103232,8 +103232,8 @@
         "type": "way",
         "id": 37108504,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103246,8 +103246,8 @@
         "type": "way",
         "id": 37341852,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103264,8 +103264,8 @@
         "type": "way",
         "id": 37341853,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103281,8 +103281,8 @@
         "type": "way",
         "id": 37342126,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103295,8 +103295,8 @@
         "type": "way",
         "id": 37342127,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103309,8 +103309,8 @@
         "type": "way",
         "id": 37342129,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103325,8 +103325,8 @@
         "type": "way",
         "id": 37342130,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -103340,8 +103340,8 @@
         "type": "way",
         "id": 37415571,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103361,8 +103361,8 @@
         "type": "way",
         "id": 37415572,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103384,8 +103384,8 @@
         "type": "way",
         "id": 37415573,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103398,8 +103398,8 @@
         "type": "way",
         "id": 37415574,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103420,8 +103420,8 @@
         "type": "way",
         "id": 37415575,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103434,8 +103434,8 @@
         "type": "way",
         "id": 37415576,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103448,8 +103448,8 @@
         "type": "way",
         "id": 38105798,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103470,8 +103470,8 @@
         "type": "way",
         "id": 38105960,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103485,8 +103485,8 @@
         "type": "way",
         "id": 38106286,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103500,8 +103500,8 @@
         "type": "way",
         "id": 38213295,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103520,8 +103520,8 @@
         "type": "way",
         "id": 38434099,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -103541,8 +103541,8 @@
         "type": "way",
         "id": 38663130,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "rest_area"
         },
@@ -103560,8 +103560,8 @@
         "type": "way",
         "id": 38663131,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -103578,8 +103578,8 @@
         "type": "way",
         "id": 38806214,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -103594,8 +103594,8 @@
         "type": "way",
         "id": 39266862,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -103610,8 +103610,8 @@
         "type": "way",
         "id": 39430854,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -103629,8 +103629,8 @@
         "type": "way",
         "id": 45023087,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "living_street"
         },
@@ -103645,8 +103645,8 @@
         "type": "way",
         "id": 45023088,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103659,8 +103659,8 @@
         "type": "way",
         "id": 45023089,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103673,8 +103673,8 @@
         "type": "way",
         "id": 45023090,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103687,8 +103687,8 @@
         "type": "way",
         "id": 45023091,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103701,8 +103701,8 @@
         "type": "way",
         "id": 45023093,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103715,8 +103715,8 @@
         "type": "way",
         "id": 45023094,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103729,8 +103729,8 @@
         "type": "way",
         "id": 45023095,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103743,8 +103743,8 @@
         "type": "way",
         "id": 45023096,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "living_street"
         },
@@ -103759,8 +103759,8 @@
         "type": "way",
         "id": 45023097,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "living_street"
         },
@@ -103775,8 +103775,8 @@
         "type": "way",
         "id": 45023098,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103791,8 +103791,8 @@
         "type": "way",
         "id": 45023099,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103809,8 +103809,8 @@
         "type": "way",
         "id": 45023100,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103831,8 +103831,8 @@
         "type": "way",
         "id": 45023101,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103846,8 +103846,8 @@
         "type": "way",
         "id": 45023102,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103860,8 +103860,8 @@
         "type": "way",
         "id": 45023103,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103874,8 +103874,8 @@
         "type": "way",
         "id": 45023104,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103888,8 +103888,8 @@
         "type": "way",
         "id": 45023105,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103905,8 +103905,8 @@
         "type": "way",
         "id": 45023106,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -103921,8 +103921,8 @@
         "type": "way",
         "id": 45023107,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103942,8 +103942,8 @@
         "type": "way",
         "id": 45023108,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103956,8 +103956,8 @@
         "type": "way",
         "id": 45023109,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103970,8 +103970,8 @@
         "type": "way",
         "id": 45023110,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103984,8 +103984,8 @@
         "type": "way",
         "id": 45023111,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -103998,8 +103998,8 @@
         "type": "way",
         "id": 45023112,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104022,8 +104022,8 @@
         "type": "way",
         "id": 45023113,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104036,8 +104036,8 @@
         "type": "way",
         "id": 45023114,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104050,8 +104050,8 @@
         "type": "way",
         "id": 45023115,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104064,8 +104064,8 @@
         "type": "way",
         "id": 45023116,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104078,8 +104078,8 @@
         "type": "way",
         "id": 45023117,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104092,8 +104092,8 @@
         "type": "way",
         "id": 45023118,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104109,8 +104109,8 @@
         "type": "way",
         "id": 45023120,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104123,8 +104123,8 @@
         "type": "way",
         "id": 45023121,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104137,8 +104137,8 @@
         "type": "way",
         "id": 45023122,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104151,8 +104151,8 @@
         "type": "way",
         "id": 45023123,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104165,8 +104165,8 @@
         "type": "way",
         "id": 45023124,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104179,8 +104179,8 @@
         "type": "way",
         "id": 45023125,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104193,8 +104193,8 @@
         "type": "way",
         "id": 45023126,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104210,8 +104210,8 @@
         "type": "way",
         "id": 45107440,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104224,8 +104224,8 @@
         "type": "way",
         "id": 45107441,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104238,8 +104238,8 @@
         "type": "way",
         "id": 45107442,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104252,8 +104252,8 @@
         "type": "way",
         "id": 45107443,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104266,8 +104266,8 @@
         "type": "way",
         "id": 45107444,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104280,8 +104280,8 @@
         "type": "way",
         "id": 45108127,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104295,8 +104295,8 @@
         "type": "way",
         "id": 45108128,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104310,8 +104310,8 @@
         "type": "way",
         "id": 45108129,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104325,8 +104325,8 @@
         "type": "way",
         "id": 45108130,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -104339,8 +104339,8 @@
         "type": "way",
         "id": 45108132,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104354,8 +104354,8 @@
         "type": "way",
         "id": 45108133,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104369,8 +104369,8 @@
         "type": "way",
         "id": 45109784,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104384,8 +104384,8 @@
         "type": "way",
         "id": 45109785,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104398,8 +104398,8 @@
         "type": "way",
         "id": 45109786,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104412,8 +104412,8 @@
         "type": "way",
         "id": 45109789,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104427,8 +104427,8 @@
         "type": "way",
         "id": 45109796,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104441,8 +104441,8 @@
         "type": "way",
         "id": 45109797,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104457,8 +104457,8 @@
         "type": "way",
         "id": 45109798,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104472,8 +104472,8 @@
         "type": "way",
         "id": 45109799,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104486,8 +104486,8 @@
         "type": "way",
         "id": 45109804,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104503,8 +104503,8 @@
         "type": "way",
         "id": 45109806,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104517,8 +104517,8 @@
         "type": "way",
         "id": 45109808,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104532,8 +104532,8 @@
         "type": "way",
         "id": 45109809,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104548,8 +104548,8 @@
         "type": "way",
         "id": 45109810,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104564,8 +104564,8 @@
         "type": "way",
         "id": 45109811,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104578,8 +104578,8 @@
         "type": "way",
         "id": 45109812,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104592,8 +104592,8 @@
         "type": "way",
         "id": 45109813,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104610,8 +104610,8 @@
         "type": "way",
         "id": 45109815,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104625,8 +104625,8 @@
         "type": "way",
         "id": 45109816,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104639,8 +104639,8 @@
         "type": "way",
         "id": 45109818,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104654,8 +104654,8 @@
         "type": "way",
         "id": 45109820,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104668,8 +104668,8 @@
         "type": "way",
         "id": 45109822,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104682,8 +104682,8 @@
         "type": "way",
         "id": 45109823,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104698,8 +104698,8 @@
         "type": "way",
         "id": 45109825,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104713,8 +104713,8 @@
         "type": "way",
         "id": 45109827,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104729,8 +104729,8 @@
         "type": "way",
         "id": 45109830,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104744,8 +104744,8 @@
         "type": "way",
         "id": 45171484,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104758,8 +104758,8 @@
         "type": "way",
         "id": 45171485,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104773,8 +104773,8 @@
         "type": "way",
         "id": 45485903,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -104789,8 +104789,8 @@
         "type": "way",
         "id": 45485904,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -104807,8 +104807,8 @@
         "type": "way",
         "id": 47586224,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -104825,8 +104825,8 @@
         "type": "way",
         "id": 47901799,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -104853,8 +104853,8 @@
         "type": "way",
         "id": 47901801,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -104867,8 +104867,8 @@
         "type": "way",
         "id": 60138308,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -104896,8 +104896,8 @@
         "type": "way",
         "id": 70516811,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -104914,8 +104914,8 @@
         "type": "way",
         "id": 114804490,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -104932,8 +104932,8 @@
         "type": "way",
         "id": 117695418,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -104951,8 +104951,8 @@
         "type": "way",
         "id": 120579752,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104965,8 +104965,8 @@
         "type": "way",
         "id": 120579754,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -104979,8 +104979,8 @@
         "type": "way",
         "id": 120579759,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -104993,8 +104993,8 @@
         "type": "way",
         "id": 120579760,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105010,8 +105010,8 @@
         "type": "way",
         "id": 120579763,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -105024,8 +105024,8 @@
         "type": "way",
         "id": 125820621,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105039,8 +105039,8 @@
         "type": "way",
         "id": 125820622,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105054,8 +105054,8 @@
         "type": "way",
         "id": 125823000,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105069,8 +105069,8 @@
         "type": "way",
         "id": 125823001,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105084,8 +105084,8 @@
         "type": "way",
         "id": 125823003,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105108,8 +105108,8 @@
         "type": "way",
         "id": 140268429,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105132,8 +105132,8 @@
         "type": "way",
         "id": 140961596,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105165,8 +105165,8 @@
         "type": "way",
         "id": 140961600,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105187,8 +105187,8 @@
         "type": "way",
         "id": 140961605,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105211,8 +105211,8 @@
         "type": "way",
         "id": 140961608,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105226,8 +105226,8 @@
         "type": "way",
         "id": 140961609,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105252,8 +105252,8 @@
         "type": "way",
         "id": 140961619,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105274,8 +105274,8 @@
         "type": "way",
         "id": 140961623,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105304,8 +105304,8 @@
         "type": "way",
         "id": 144075004,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105320,8 +105320,8 @@
         "type": "way",
         "id": 144075010,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105334,8 +105334,8 @@
         "type": "way",
         "id": 144075013,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105349,8 +105349,8 @@
         "type": "way",
         "id": 144075020,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -105374,8 +105374,8 @@
         "type": "way",
         "id": 144075024,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105388,8 +105388,8 @@
         "type": "way",
         "id": 144539363,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -105406,8 +105406,8 @@
         "type": "way",
         "id": 161713919,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105425,8 +105425,8 @@
         "type": "way",
         "id": 161713920,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105458,8 +105458,8 @@
         "type": "way",
         "id": 161713924,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105473,8 +105473,8 @@
         "type": "way",
         "id": 161713928,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105487,8 +105487,8 @@
         "type": "way",
         "id": 161713929,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105501,8 +105501,8 @@
         "type": "way",
         "id": 161713931,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105527,8 +105527,8 @@
         "type": "way",
         "id": 161713933,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105547,8 +105547,8 @@
         "type": "way",
         "id": 161713934,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105562,8 +105562,8 @@
         "type": "way",
         "id": 161713935,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105576,8 +105576,8 @@
         "type": "way",
         "id": 161713936,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -105592,8 +105592,8 @@
         "type": "way",
         "id": 162901935,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -105625,8 +105625,8 @@
         "type": "way",
         "id": 163552080,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105640,8 +105640,8 @@
         "type": "way",
         "id": 163552081,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -105655,8 +105655,8 @@
         "type": "way",
         "id": 163552092,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105673,8 +105673,8 @@
         "type": "way",
         "id": 163552981,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105687,8 +105687,8 @@
         "type": "way",
         "id": 163552982,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105701,8 +105701,8 @@
         "type": "way",
         "id": 163553249,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105715,8 +105715,8 @@
         "type": "way",
         "id": 163556503,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105731,8 +105731,8 @@
         "type": "way",
         "id": 163556519,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105749,8 +105749,8 @@
         "type": "way",
         "id": 186412050,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105771,8 +105771,8 @@
         "type": "way",
         "id": 211259728,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105789,8 +105789,8 @@
         "type": "way",
         "id": 307644077,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -105812,8 +105812,8 @@
         "type": "way",
         "id": 313139133,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105836,8 +105836,8 @@
         "type": "way",
         "id": 313143671,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -105882,8 +105882,8 @@
         "type": "way",
         "id": 318398335,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -105897,8 +105897,8 @@
         "type": "way",
         "id": 335572697,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -105919,8 +105919,8 @@
         "type": "way",
         "id": 335572702,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -105945,8 +105945,8 @@
         "type": "way",
         "id": 335572704,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -105972,8 +105972,8 @@
         "type": "way",
         "id": 335572705,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -106000,8 +106000,8 @@
         "type": "way",
         "id": 335572711,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106015,8 +106015,8 @@
         "type": "way",
         "id": 335572712,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106029,8 +106029,8 @@
         "type": "way",
         "id": 335572717,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106043,8 +106043,8 @@
         "type": "way",
         "id": 335572721,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106057,8 +106057,8 @@
         "type": "way",
         "id": 335572727,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -106072,8 +106072,8 @@
         "type": "way",
         "id": 335572730,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106087,8 +106087,8 @@
         "type": "way",
         "id": 335572747,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106105,8 +106105,8 @@
         "type": "way",
         "id": 335572757,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -106124,8 +106124,8 @@
         "type": "way",
         "id": 358375347,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106147,8 +106147,8 @@
         "type": "way",
         "id": 358376193,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106161,8 +106161,8 @@
         "type": "way",
         "id": 361281217,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106177,8 +106177,8 @@
         "type": "way",
         "id": 373503714,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106197,8 +106197,8 @@
         "type": "way",
         "id": 373503716,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -106219,8 +106219,8 @@
         "type": "way",
         "id": 373503717,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106234,8 +106234,8 @@
         "type": "way",
         "id": 373503721,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106250,8 +106250,8 @@
         "type": "way",
         "id": 378642679,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -106264,8 +106264,8 @@
         "type": "way",
         "id": 378642680,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106279,8 +106279,8 @@
         "type": "way",
         "id": 378642681,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -106293,8 +106293,8 @@
         "type": "way",
         "id": 379424758,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106307,8 +106307,8 @@
         "type": "way",
         "id": 379424761,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106323,8 +106323,8 @@
         "type": "way",
         "id": 379425321,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106337,8 +106337,8 @@
         "type": "way",
         "id": 379425322,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106351,8 +106351,8 @@
         "type": "way",
         "id": 379425323,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106366,8 +106366,8 @@
         "type": "way",
         "id": 379425325,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106381,8 +106381,8 @@
         "type": "way",
         "id": 379425327,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "trunk"
         },
@@ -106398,8 +106398,8 @@
         "type": "way",
         "id": 406759648,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106417,8 +106417,8 @@
         "type": "way",
         "id": 416507816,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -106452,8 +106452,8 @@
         "type": "way",
         "id": 421694134,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106466,8 +106466,8 @@
         "type": "way",
         "id": 421694136,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -106481,8 +106481,8 @@
         "type": "way",
         "id": 421694139,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -106509,8 +106509,8 @@
         "type": "way",
         "id": 423114681,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -106523,8 +106523,8 @@
         "type": "way",
         "id": 447698049,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106547,8 +106547,8 @@
         "type": "way",
         "id": 447709046,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106563,8 +106563,8 @@
         "type": "way",
         "id": 447831079,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106588,8 +106588,8 @@
         "type": "way",
         "id": 447831081,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106602,8 +106602,8 @@
         "type": "way",
         "id": 447831084,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106616,8 +106616,8 @@
         "type": "way",
         "id": 447831085,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106630,8 +106630,8 @@
         "type": "way",
         "id": 447831087,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106644,8 +106644,8 @@
         "type": "way",
         "id": 447831088,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106659,8 +106659,8 @@
         "type": "way",
         "id": 447831089,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106673,8 +106673,8 @@
         "type": "way",
         "id": 447831090,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106688,8 +106688,8 @@
         "type": "way",
         "id": 447831092,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106704,8 +106704,8 @@
         "type": "way",
         "id": 447831093,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106720,8 +106720,8 @@
         "type": "way",
         "id": 447831095,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106736,8 +106736,8 @@
         "type": "way",
         "id": 447831097,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106753,8 +106753,8 @@
         "type": "way",
         "id": 447831098,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106770,8 +106770,8 @@
         "type": "way",
         "id": 447831099,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106787,8 +106787,8 @@
         "type": "way",
         "id": 447831100,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106804,8 +106804,8 @@
         "type": "way",
         "id": 447831101,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106821,8 +106821,8 @@
         "type": "way",
         "id": 447831102,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106838,8 +106838,8 @@
         "type": "way",
         "id": 447831104,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106857,8 +106857,8 @@
         "type": "way",
         "id": 447831105,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106876,8 +106876,8 @@
         "type": "way",
         "id": 447831106,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106896,8 +106896,8 @@
         "type": "way",
         "id": 447831107,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106917,8 +106917,8 @@
         "type": "way",
         "id": 447864028,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106940,8 +106940,8 @@
         "type": "way",
         "id": 447864029,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106963,8 +106963,8 @@
         "type": "way",
         "id": 447864031,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -106977,8 +106977,8 @@
         "type": "way",
         "id": 447864032,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -106992,8 +106992,8 @@
         "type": "way",
         "id": 447864033,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107007,8 +107007,8 @@
         "type": "way",
         "id": 447864034,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107033,8 +107033,8 @@
         "type": "way",
         "id": 447864036,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107051,8 +107051,8 @@
         "type": "way",
         "id": 447864037,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107069,8 +107069,8 @@
         "type": "way",
         "id": 447864038,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107088,8 +107088,8 @@
         "type": "way",
         "id": 447864039,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107107,8 +107107,8 @@
         "type": "way",
         "id": 447864040,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107126,8 +107126,8 @@
         "type": "way",
         "id": 447864041,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107147,8 +107147,8 @@
         "type": "way",
         "id": 447864042,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107167,8 +107167,8 @@
         "type": "way",
         "id": 447919147,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107207,8 +107207,8 @@
         "type": "way",
         "id": 449006239,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107221,8 +107221,8 @@
         "type": "way",
         "id": 477429348,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107235,8 +107235,8 @@
         "type": "way",
         "id": 477429349,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107252,8 +107252,8 @@
         "type": "way",
         "id": 486234524,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -107268,8 +107268,8 @@
         "type": "way",
         "id": 486234525,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -107287,8 +107287,8 @@
         "type": "way",
         "id": 486235084,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -107302,8 +107302,8 @@
         "type": "way",
         "id": 486235929,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -107325,8 +107325,8 @@
         "type": "way",
         "id": 486237451,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107340,8 +107340,8 @@
         "type": "way",
         "id": 486237454,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107355,8 +107355,8 @@
         "type": "way",
         "id": 508940725,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107370,8 +107370,8 @@
         "type": "way",
         "id": 508940726,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107388,8 +107388,8 @@
         "type": "way",
         "id": 508940727,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107419,8 +107419,8 @@
         "type": "way",
         "id": 508940729,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107435,8 +107435,8 @@
         "type": "way",
         "id": 508940730,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -107449,8 +107449,8 @@
         "type": "way",
         "id": 508940732,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -107464,8 +107464,8 @@
         "type": "way",
         "id": 508940733,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107481,8 +107481,8 @@
         "type": "way",
         "id": 513321142,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107497,8 +107497,8 @@
         "type": "way",
         "id": 513321145,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107514,8 +107514,8 @@
         "type": "way",
         "id": 513321146,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107530,8 +107530,8 @@
         "type": "way",
         "id": 513321147,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107551,8 +107551,8 @@
         "type": "way",
         "id": 513321148,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107565,8 +107565,8 @@
         "type": "way",
         "id": 513321149,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107586,8 +107586,8 @@
         "type": "way",
         "id": 513321150,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107601,8 +107601,8 @@
         "type": "way",
         "id": 513321151,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107615,8 +107615,8 @@
         "type": "way",
         "id": 513321152,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107629,8 +107629,8 @@
         "type": "way",
         "id": 531737921,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107643,8 +107643,8 @@
         "type": "way",
         "id": 558275302,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107658,8 +107658,8 @@
         "type": "way",
         "id": 558275304,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107674,8 +107674,8 @@
         "type": "way",
         "id": 558275305,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107689,8 +107689,8 @@
         "type": "way",
         "id": 585443902,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107704,8 +107704,8 @@
         "type": "way",
         "id": 585443906,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107718,8 +107718,8 @@
         "type": "way",
         "id": 585443907,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107733,8 +107733,8 @@
         "type": "way",
         "id": 585443909,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107761,8 +107761,8 @@
         "type": "way",
         "id": 585443911,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107795,8 +107795,8 @@
         "type": "way",
         "id": 585443913,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107820,8 +107820,8 @@
         "type": "way",
         "id": 585443915,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107851,8 +107851,8 @@
         "type": "way",
         "id": 585443917,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107874,8 +107874,8 @@
         "type": "way",
         "id": 585450209,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107891,8 +107891,8 @@
         "type": "way",
         "id": 585450210,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -107905,8 +107905,8 @@
         "type": "way",
         "id": 659871108,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -107919,8 +107919,8 @@
         "type": "way",
         "id": 667681809,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -107936,8 +107936,8 @@
         "type": "way",
         "id": 667681811,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -107953,8 +107953,8 @@
         "type": "way",
         "id": 667681813,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107967,8 +107967,8 @@
         "type": "way",
         "id": 667681814,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -107981,8 +107981,8 @@
         "type": "way",
         "id": 667681816,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -107995,8 +107995,8 @@
         "type": "way",
         "id": 667681817,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -108012,8 +108012,8 @@
         "type": "way",
         "id": 667681819,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108026,8 +108026,8 @@
         "type": "way",
         "id": 667681820,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108040,8 +108040,8 @@
         "type": "way",
         "id": 667681821,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108056,8 +108056,8 @@
         "type": "way",
         "id": 667681822,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -108084,8 +108084,8 @@
         "type": "way",
         "id": 667735319,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -108098,8 +108098,8 @@
         "type": "way",
         "id": 667735320,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -108113,8 +108113,8 @@
         "type": "way",
         "id": 667735321,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108128,8 +108128,8 @@
         "type": "way",
         "id": 667735322,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -108143,8 +108143,8 @@
         "type": "way",
         "id": 667735323,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108157,8 +108157,8 @@
         "type": "way",
         "id": 667735324,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -108175,8 +108175,8 @@
         "type": "way",
         "id": 672157358,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108203,8 +108203,8 @@
         "type": "way",
         "id": 672157359,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108217,8 +108217,8 @@
         "type": "way",
         "id": 672157360,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108231,8 +108231,8 @@
         "type": "way",
         "id": 672157361,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108247,8 +108247,8 @@
         "type": "way",
         "id": 672157362,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108263,8 +108263,8 @@
         "type": "way",
         "id": 672157363,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108279,8 +108279,8 @@
         "type": "way",
         "id": 672157364,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -108305,8 +108305,8 @@
         "type": "way",
         "id": 672157365,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -108322,8 +108322,8 @@
         "type": "way",
         "id": 672157366,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108339,8 +108339,8 @@
         "type": "way",
         "id": 672157367,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108356,8 +108356,8 @@
         "type": "way",
         "id": 686272669,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -108376,8 +108376,8 @@
         "type": "way",
         "id": 689231377,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108413,8 +108413,8 @@
         "type": "way",
         "id": 689487428,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -108428,8 +108428,8 @@
         "type": "way",
         "id": 695248909,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -108442,8 +108442,8 @@
         "type": "way",
         "id": 724444000,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108456,8 +108456,8 @@
         "type": "way",
         "id": 724444001,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108470,8 +108470,8 @@
         "type": "way",
         "id": 737042219,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -108485,8 +108485,8 @@
         "type": "way",
         "id": 737106022,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108500,8 +108500,8 @@
         "type": "way",
         "id": 737106024,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108514,8 +108514,8 @@
         "type": "way",
         "id": 737106026,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108528,8 +108528,8 @@
         "type": "way",
         "id": 737106032,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108542,8 +108542,8 @@
         "type": "way",
         "id": 737106033,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108556,8 +108556,8 @@
         "type": "way",
         "id": 737106035,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108572,8 +108572,8 @@
         "type": "way",
         "id": 737106039,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108586,8 +108586,8 @@
         "type": "way",
         "id": 737106040,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108603,8 +108603,8 @@
         "type": "way",
         "id": 737106041,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108617,8 +108617,8 @@
         "type": "way",
         "id": 755535603,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108631,8 +108631,8 @@
         "type": "way",
         "id": 755535604,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -108645,8 +108645,8 @@
         "type": "way",
         "id": 778812534,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108670,8 +108670,8 @@
         "type": "way",
         "id": 778812535,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108690,8 +108690,8 @@
         "type": "way",
         "id": 778812536,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108708,8 +108708,8 @@
         "type": "way",
         "id": 778812537,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108723,8 +108723,8 @@
         "type": "way",
         "id": 778812538,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108739,8 +108739,8 @@
         "type": "way",
         "id": 835472571,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "cycleway"
         },
@@ -108756,8 +108756,8 @@
         "type": "way",
         "id": 846122848,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108774,8 +108774,8 @@
         "type": "way",
         "id": 846122849,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108788,8 +108788,8 @@
         "type": "way",
         "id": 846122850,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108804,8 +108804,8 @@
         "type": "way",
         "id": 869987738,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108821,8 +108821,8 @@
         "type": "way",
         "id": 887656591,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108835,8 +108835,8 @@
         "type": "way",
         "id": 887656642,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108850,8 +108850,8 @@
         "type": "way",
         "id": 887936246,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108865,8 +108865,8 @@
         "type": "way",
         "id": 887989172,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108893,8 +108893,8 @@
         "type": "way",
         "id": 887989173,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108921,8 +108921,8 @@
         "type": "way",
         "id": 892465733,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108935,8 +108935,8 @@
         "type": "way",
         "id": 892465734,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108950,8 +108950,8 @@
         "type": "way",
         "id": 892465751,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -108966,8 +108966,8 @@
         "type": "way",
         "id": 892465752,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108981,8 +108981,8 @@
         "type": "way",
         "id": 892465754,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -108996,8 +108996,8 @@
         "type": "way",
         "id": 892475890,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "unclassified"
         },
@@ -109011,8 +109011,8 @@
         "type": "way",
         "id": 892475891,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109028,8 +109028,8 @@
         "type": "way",
         "id": 892760648,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -109044,8 +109044,8 @@
         "type": "way",
         "id": 892760649,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109058,8 +109058,8 @@
         "type": "way",
         "id": 893425077,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -109072,8 +109072,8 @@
         "type": "way",
         "id": 893425082,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109086,8 +109086,8 @@
         "type": "way",
         "id": 893425083,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -109102,8 +109102,8 @@
         "type": "way",
         "id": 893425084,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109116,8 +109116,8 @@
         "type": "way",
         "id": 893425085,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -109130,8 +109130,8 @@
         "type": "way",
         "id": 893425086,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109146,8 +109146,8 @@
         "type": "way",
         "id": 893425957,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109162,8 +109162,8 @@
         "type": "way",
         "id": 893738385,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109179,8 +109179,8 @@
         "type": "way",
         "id": 894203158,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109197,8 +109197,8 @@
         "type": "way",
         "id": 894203159,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -109212,8 +109212,8 @@
         "type": "way",
         "id": 894211177,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109227,8 +109227,8 @@
         "type": "way",
         "id": 894211178,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109250,8 +109250,8 @@
         "type": "way",
         "id": 894375030,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -109266,8 +109266,8 @@
         "type": "way",
         "id": 894375031,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -109280,8 +109280,8 @@
         "type": "way",
         "id": 894375032,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109294,8 +109294,8 @@
         "type": "way",
         "id": 894375033,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109308,8 +109308,8 @@
         "type": "way",
         "id": 894575185,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109328,8 +109328,8 @@
         "type": "way",
         "id": 894575186,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109342,8 +109342,8 @@
         "type": "way",
         "id": 894575187,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109358,8 +109358,8 @@
         "type": "way",
         "id": 894575188,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109373,8 +109373,8 @@
         "type": "way",
         "id": 894813910,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109389,8 +109389,8 @@
         "type": "way",
         "id": 894813911,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109404,8 +109404,8 @@
         "type": "way",
         "id": 932332795,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109428,8 +109428,8 @@
         "type": "way",
         "id": 954848823,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109442,8 +109442,8 @@
         "type": "way",
         "id": 954848824,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109456,8 +109456,8 @@
         "type": "way",
         "id": 976007393,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "tertiary"
         },
@@ -109473,8 +109473,8 @@
         "type": "way",
         "id": 986923044,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109489,8 +109489,8 @@
         "type": "way",
         "id": 986923045,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109504,8 +109504,8 @@
         "type": "way",
         "id": 988844014,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109520,8 +109520,8 @@
         "type": "way",
         "id": 988844573,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109539,8 +109539,8 @@
         "type": "way",
         "id": 988849587,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109556,8 +109556,8 @@
         "type": "way",
         "id": 988852974,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -109570,8 +109570,8 @@
         "type": "way",
         "id": 988853906,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109584,8 +109584,8 @@
         "type": "way",
         "id": 988853907,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109599,8 +109599,8 @@
         "type": "way",
         "id": 991454909,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -109613,8 +109613,8 @@
         "type": "way",
         "id": 991454910,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -109628,8 +109628,8 @@
         "type": "way",
         "id": 991462168,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109648,8 +109648,8 @@
         "type": "way",
         "id": 991462684,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109663,8 +109663,8 @@
         "type": "way",
         "id": 993252074,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109677,8 +109677,8 @@
         "type": "way",
         "id": 993252075,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109691,8 +109691,8 @@
         "type": "way",
         "id": 995869550,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109710,8 +109710,8 @@
         "type": "way",
         "id": 1006736870,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -109725,8 +109725,8 @@
         "type": "way",
         "id": 1009096157,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -109740,8 +109740,8 @@
         "type": "way",
         "id": 1012658310,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -109763,8 +109763,8 @@
         "type": "way",
         "id": 1012658311,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109777,8 +109777,8 @@
         "type": "way",
         "id": 1015871128,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -109791,8 +109791,8 @@
         "type": "way",
         "id": 1021405902,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109806,8 +109806,8 @@
         "type": "way",
         "id": 1021406191,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109829,8 +109829,8 @@
         "type": "way",
         "id": 1023611431,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109846,8 +109846,8 @@
         "type": "way",
         "id": 1023624960,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -109860,8 +109860,8 @@
         "type": "way",
         "id": 1023624961,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -109874,8 +109874,8 @@
         "type": "way",
         "id": 1023624962,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109888,8 +109888,8 @@
         "type": "way",
         "id": 1023741766,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -109902,8 +109902,8 @@
         "type": "way",
         "id": 1023741767,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109917,8 +109917,8 @@
         "type": "way",
         "id": 1033179044,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -109931,8 +109931,8 @@
         "type": "way",
         "id": 1050794845,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109945,8 +109945,8 @@
         "type": "way",
         "id": 1069264273,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -109974,8 +109974,8 @@
         "type": "way",
         "id": 1095372189,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -109989,8 +109989,8 @@
         "type": "way",
         "id": 1095373365,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110003,8 +110003,8 @@
         "type": "way",
         "id": 1095373366,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110017,8 +110017,8 @@
         "type": "way",
         "id": 1095376438,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110031,8 +110031,8 @@
         "type": "way",
         "id": 1096884087,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110045,8 +110045,8 @@
         "type": "way",
         "id": 1108479112,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "secondary"
         },
@@ -110060,8 +110060,8 @@
         "type": "way",
         "id": 1128237055,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110074,8 +110074,8 @@
         "type": "way",
         "id": 1131144334,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -110088,8 +110088,8 @@
         "type": "way",
         "id": 1154590283,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -110102,8 +110102,8 @@
         "type": "way",
         "id": 1154590284,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -110122,8 +110122,8 @@
         "type": "way",
         "id": 1168473515,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -110140,8 +110140,8 @@
         "type": "way",
         "id": 1196453255,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -110156,8 +110156,8 @@
         "type": "way",
         "id": 1197048147,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -110170,8 +110170,8 @@
         "type": "way",
         "id": 1197048148,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -110186,8 +110186,8 @@
         "type": "way",
         "id": 1204855505,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110215,8 +110215,8 @@
         "type": "way",
         "id": 1204855506,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110230,8 +110230,8 @@
         "type": "way",
         "id": 1204855507,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110246,8 +110246,8 @@
         "type": "way",
         "id": 1204855508,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110260,8 +110260,8 @@
         "type": "way",
         "id": 1204855509,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110291,8 +110291,8 @@
         "type": "way",
         "id": 1204855510,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110320,8 +110320,8 @@
         "type": "way",
         "id": 1204855511,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110341,8 +110341,8 @@
         "type": "way",
         "id": 1204855512,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110359,8 +110359,8 @@
         "type": "way",
         "id": 1204855513,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "path"
         },
@@ -110373,8 +110373,8 @@
         "type": "way",
         "id": 1221041501,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110388,8 +110388,8 @@
         "type": "way",
         "id": 1221041502,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110402,8 +110402,8 @@
         "type": "way",
         "id": 1221041503,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110417,8 +110417,8 @@
         "type": "way",
         "id": 1230432745,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110455,8 +110455,8 @@
         "type": "way",
         "id": 1230432746,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110469,8 +110469,8 @@
         "type": "way",
         "id": 1230432747,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110484,8 +110484,8 @@
         "type": "way",
         "id": 1230432749,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110498,8 +110498,8 @@
         "type": "way",
         "id": 1230432750,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "residential"
         },
@@ -110515,8 +110515,8 @@
         "type": "way",
         "id": 1241714037,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "track"
         },
@@ -110533,8 +110533,8 @@
         "type": "way",
         "id": 1267365435,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110548,8 +110548,8 @@
         "type": "way",
         "id": 1267365436,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110565,8 +110565,8 @@
         "type": "way",
         "id": 1267365437,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110579,8 +110579,8 @@
         "type": "way",
         "id": 1267365438,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110593,8 +110593,8 @@
         "type": "way",
         "id": 1267366728,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110607,8 +110607,8 @@
         "type": "way",
         "id": 1267366729,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "service"
         },
@@ -110621,8 +110621,8 @@
         "type": "way",
         "id": 1267368845,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110635,8 +110635,8 @@
         "type": "way",
         "id": 1267368846,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110649,8 +110649,8 @@
         "type": "way",
         "id": 1267368847,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110665,8 +110665,8 @@
         "type": "way",
         "id": 1267368848,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110680,8 +110680,8 @@
         "type": "way",
         "id": 1267368849,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -110694,8 +110694,8 @@
         "type": "way",
         "id": 1267368851,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
@@ -110708,8 +110708,8 @@
         "type": "way",
         "id": 1267368852,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "steps"
         },
@@ -110722,8 +110722,8 @@
         "type": "way",
         "id": 1267371060,
         "visible": true,
-        "longitude": NaN,
-        "latitude": NaN,
+        "longitude": "",
+        "latitude": "",
         "tags": {
             "highway": "footway"
         },
