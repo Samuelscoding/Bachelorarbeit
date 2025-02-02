@@ -27,7 +27,7 @@ Es wurde als Python-Umgebug Anaconda verwendet
 Unter `Datasets` werden die Datensätze, die Geografische Daten von mehreren Orten beinhalten, von OpenStreetMap gespeichert.
 Unter `City_data` werden die einzelnen Datensätze der angegebenen Orte aus dem Datensatz in `Datasets` gespeichert.
 
-Wurde der installierte Datensatz im Ordner `Datasets` eingefügt, soll der Dateiname in der ersten Zelle "Impors und Datei" von `Dataset_Visualization.ipynb` unter `dataset_path` eingefügt werden. Unter `cities`, in der selben Zelle, werden die Orte angegeben, die analysiert werden sollen.
+Wurde der installierte Datensatz im Ordner `Datasets` eingefügt, soll der Dateiname in der ersten Zelle "Imports und Datei" von `Dataset_Visualization.ipynb` unter `dataset_path` eingefügt werden. Unter `cities`, in der selben Zelle, werden die Orte angegeben, die analysiert werden sollen. Wird das Skript bis zum Punkt "Datensatz nach Städten filtern" werden die einzelnen Datensätze der angegebenen Orten unter `City_data` in den entsprechenden Sub-Ordnern `village`, `town` oder `city` gespeichert, je nachdem um welche Art von Ort es sich dabei handelt.
 
 Beispiel:
 
